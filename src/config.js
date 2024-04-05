@@ -55,16 +55,16 @@ export function GetArrayFromJson(jsonvalue) {
 // export const BASEWEBURL = 'https://demo3.sjainventures.com/frc/administrator'
 export const BASEWEBURL1 = 'https://frcadmin.sjain.io'
 export const BASEWEBURL2 = 'http://localhost:3000'
-export const BASEWEBURL3 = 'https://reactjs.indiahelppoint.in/'
+export const BASEWEBURL3 = 'http://139.59.176.130:3000'
 
 export const BASEWEBURL = BASEWEBURL3
 
 export const UPLOADSsURL = 'https://frcadmin.sjain.io/uploads/'
 export const DoUploadURL = 'https://frcadmin.sjain.io/uploads/index.php'
 
-export const NODEAPIURL = 'https://nodejs.indiahelppoint.in'
+export const NODEAPIURL = 'http://139.59.176.130:3000'
 
-export const NodeUPLOADSsURL = 'https://nodejs.indiahelppoint.in/showfile/'
+export const NodeUPLOADSsURL = 'http://139.59.176.130:3000/showfile/'
 export const DoNodeUploadURL = `${NODEAPIURL}/uploadAnyFile`
 export const NodeUploadBasePhyPath = '/home/azureuser/frcsj/uploads/'
 
