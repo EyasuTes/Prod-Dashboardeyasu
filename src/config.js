@@ -55,7 +55,7 @@ export function GetArrayFromJson(jsonvalue) {
 // export const BASEWEBURL = 'https://demo3.sjainventures.com/frc/administrator'
 export const BASEWEBURL1 = 'https://frcadmin.sjain.io'
 export const BASEWEBURL2 = 'http://localhost:3000'
-export const BASEWEBURL3 = 'http://139.59.176.130:3000'
+export const BASEWEBURL3 = 'https://reactjs.indiahelppoint.in/'
 
 export const BASEWEBURL = BASEWEBURL3
 
